@@ -1,5 +1,8 @@
 #include <iostream>
+#include <string>
 int main () 
-{
-    std::cout<<"HAHAHA";
+{   
+    string name;
+    std::cin>>name;
+    std::cout<<"HAHAHA"<<name;
 }
