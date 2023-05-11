@@ -4,4 +4,4 @@
 4. merged this branch
 5. created new branch
 6. changed cpp file
-7.
+7. merged this branch 
